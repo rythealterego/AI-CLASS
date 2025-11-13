@@ -2,7 +2,7 @@
 
 ## Author
 **Name:** Ryan Gakinya  
-**Registration Number:** [Insert your reg number]
+**Registration Number:** 2506767DAI
 
 ## Project Title
 AI Programming Project – Python Fundamentals & Automation
