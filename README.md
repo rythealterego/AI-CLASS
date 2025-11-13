@@ -1,4 +1,4 @@
-# AI PROGRAMMG PROJECT
+# AI PROGRAMMING PROJECT
 
 ## Author
 **Name:** Ryan Gakinya  
